@@ -9,6 +9,8 @@ var pubKey = utils.genPublicKey(utils.parseKey(fs.readFileSync('ssh.key.pub')));
 var mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
 
+//heres the change to trigger travis
+
 var USER = process.env.USER;
 var PASSWORD = process.env.PASSWORD;
 
