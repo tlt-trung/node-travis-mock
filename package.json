@@ -9,7 +9,7 @@
     "buffer-equal-constant-time": "^1.0.1",
     "cookie-parser": "~1.4.3",
     "crypto": "^1.0.1",
-    "csv-parse": "^3.0.0",
+    "csv-parse": "^4.8.2",
     "debug": "~4.0.1",
     "express": "~4.16.0",
     "ftp-client": "^0.2.2",
