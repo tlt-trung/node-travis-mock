@@ -1,5 +1,5 @@
 {
-  "name": "node-one-button-studio",
+  "name": "node-travis-mock",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -23,6 +23,12 @@
     "ssh2": "^0.6.1",
     "ssh2-sftp-client": "^3.1.0",
     "uptimer": "^0.1.2",
-    "util": "^0.11.0"
+    "util": "^0.11.0",
+    "jest": "^27.0.6",
+    "lodash": "^4.17.21",
+    "mocha": "^6.2.1",
+    "nock": "^11.4.0",
+    "rewire": "^4.0.1",
+    "supertest": "^4.0.2"
   }
 }
